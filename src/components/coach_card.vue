@@ -10,10 +10,10 @@
     <div class="row row-cols-3">
       <img src="../assets/couch.jpg" alt="coach" class="coach-card" />
       <div>
-        <h2 class="my-2">
+        <h3 class="my-2">
           {{ coach_full_name }}
-        </h2>
-        <h6>Коуч</h6>
+        </h3>
+        <h5>Коуч</h5>
         <p>
           Научу сжигать жир килограммами в день!
           Сам я вешу около 170кг..
